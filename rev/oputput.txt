@@ -1,0 +1,3 @@
+Enter a number: 12345
+Original Number: 12345
+Reversed Number: 54321
